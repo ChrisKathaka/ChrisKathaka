@@ -78,4 +78,4 @@ I'm Chris Munene a Full Stack Web Developer. <br>
 
 #### Business
 - :paperclip: [My Resume/CV]()
-- :email: mfabian601@gmail.com
+- :email: munenec9@gmail.com
