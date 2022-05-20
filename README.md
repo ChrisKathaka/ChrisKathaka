@@ -11,11 +11,8 @@ I'm Chris Munene a Full Stack Web Developer. <br>
 - 📫 How to reach me: munenec9@gmail.com.
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FabianMatata&layout=compact)](https://github.com/FabianMatata/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChrisKathaka&layout=compact)](https://github.com/ChrisKathaka/github-readme-stats)
 
-<!-- <img align="left" width="47%" src="[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FabianMatata&layout=compact)](https://github.com/ChrisKathaka/github-readme-stats)" /> -->
-
-<!-- <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FabianMatata&hide=css,html,html)](https://github.com/ChrisKathaka/github-readme-stats" /> -->
 
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=ChrisKathaka&show_icons=true&theme=radical" />
 
