@@ -1,19 +1,15 @@
 Hi <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
 <br>
-I'm Fabian Matata a Full Stack Web Developer. <br>
-I Spend most of time coding outstanding projects.
+I'm Chris Munene a Full Stack Web Developer. <br>
 
 :mailbox: Reach me out!
 
-[![Linkedin Badge](https://img.shields.io/badge/-FabianMatata-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/FabianMatata/) [![Mail Badge](https://img.shields.io/badge/-mfabian601-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:mfabian601@gmail.com)
+ [![Mail Badge](https://img.shields.io/badge/-munenec9-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:munenec9@gmail.com)
 
 - 🔭 I’m currently working as a Freelancer
 - :computer: Most used line of code `git commit -m "Initial Commit"`
-- 📫 How to reach me: mfabian601@gmail.com.
+- 📫 How to reach me: munenec9@gmail.com.
 
-<!-- <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FabianMatata&layout=compact)](https://github.com/FabianMatata/github-readme-stats" /> -->
-
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide=javascript,html)](https://github.com/anuraghazra/github-readme-stats) -->
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FabianMatata&layout=compact)](https://github.com/FabianMatata/github-readme-stats)
 
